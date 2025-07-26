@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://dredsoft-admin@bitbucket.org/dredsoft/ecommerce.git
+  git clone https://github.com/Moiz-CodeByte/ecommerce-store-react.git
 ```
 
 Go to the project directory
